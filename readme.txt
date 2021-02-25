@@ -1,0 +1,1 @@
+I want to make an extension that automatically adds random +addresses to a Gmail users Gmail address when setting up accounts or subscriptions. Once new email address is created, automatically add a filter to users Gmail Inbox to track which databases leaked/sold email addresses.
